@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/T631876/Contoso%20Air/_apis/build/status/tommychoy.ContosoAir?branchName=master)](https://dev.azure.com/T631876/Contoso%20Air/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
